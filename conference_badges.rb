@@ -17,7 +17,6 @@ def batch_badge_creator(array) #define the method
       badge_maker(speaker) #returns the new array
   end
 end
-#solved with collect, much cleaner
 
 
 def assign_rooms(speakers)
